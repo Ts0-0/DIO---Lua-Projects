@@ -32,6 +32,9 @@ local function GetProgressBar (attribute)
     return result
 end
 -- card
+
+print("Olá usuário, bem vindo")
+print("Este é o meu RG para o Creeper")
 print("=============================================================")
 print("| " .. monsterName)
 print("| " .. description)
